@@ -1,0 +1,17 @@
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.bbl
+*.blg
+*.toc
+*.idx
+*.ilg
+*.ind
+*.nav
+*.pdf
+*.snm
+*.synctex(busy)
+!slika.pdf
